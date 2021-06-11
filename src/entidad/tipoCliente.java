@@ -1,4 +1,9 @@
 package entidad;
+/**
+ * 
+ * @author Cuya Cristobal Luis Angel
+ *
+ */
 
 public class tipoCliente {
 	

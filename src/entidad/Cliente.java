@@ -2,6 +2,11 @@ package entidad;
 
 import java.sql.Date;
 
+/**
+ * 
+ * @author Cuya Cristobal Luis Angel
+ *
+ */
 public class Cliente {
 	
 	private int idCliente;

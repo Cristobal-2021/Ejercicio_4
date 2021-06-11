@@ -1,5 +1,9 @@
 package gui;
-
+/**
+ * 
+ * @author Cuya Cristobal Luis Angel
+ *
+ */
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.Font;

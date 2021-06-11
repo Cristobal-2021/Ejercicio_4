@@ -1,5 +1,9 @@
 package model;
-
+/**
+ * 
+ * @author Cuya Cristobal Luis Angel
+ *
+ */
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
